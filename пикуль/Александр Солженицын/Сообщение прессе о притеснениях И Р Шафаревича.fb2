@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Александр</first-name>
+    <last-name>Солженицын</last-name>
+    <middle-name>И</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>Сообщение прессе о притеснениях И Р Шафаревича</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-11">2013-06-11</date>
+   <id>Tue Jun 11 16:29:39 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Солженицын Александр И</p>
+<p>Сообщение прессе о притеснениях И Р Шафаревича</p></title> 
+<section>
+<p>Александр Солженицын </p>
+<p>СООБЩЕНИЕ ПРЕССЕ О ПРИТЕСНЕНИЯХ И. Р. ШАФАРЕВИЧА </p>
+<p>14 октября 1975 </p>
+<p>Сообщаю вам и прошу опубликовать, что член-корреспондент Академии наук СССР всемирно известный математик профессор Игорь Шафаревич сейчас, в расцвете творческих сил, отстранён от чтения лекций в Московском университете, где преподавал 30 лет. Это - репрессия за его активную общественную деятельность в сахаровском Комитете прав человека, в защиту преследуемых инакомыслящих, и публикацию в Самиздате и на Западе статей на общественные темы (сборник "Из-под глыб"). </p>
+<p>Сообщение прессе о притеснениях И. Р. Шафаревича (14 октября 1975). Передано телеграфным агентствам из Хольцнахта. По-русски впервые напечатано в "Вестнике РХД", 1975, № 116. </p>
+</section>
+</body>
+</FictionBook>

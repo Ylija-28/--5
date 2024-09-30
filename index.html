@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>моя библиотека</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="java.js" defer></script>
+</head>
+<body>
+    <header>
+        <div id="icon">
+            <img width="90" src="img2.jpg" alt="библиотека">
+            <h1>МОЯ ОНЛАЙН БИБЛИОТЕКА</h1>
+        </div>
+        <nav><div>
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="#bookEdit">Добавить</a></li>
+        <li><button id="list">Список книг</button></li>
+    </div></nav>
+    </header>
+    <main>
+<section id="bookList">
+    <div class="book">
+        <h1>Заголовок</h1>
+        <p>Автор</p>
+        <p>Год издания</p>
+        <p>Жанр</p>
+        <p>Статус</p>
+    </div>
+</section>
+<section id="bookEdit">
+    <h2>Добавить книгу</h2>
+    <form idonsubmit="return addBook()">
+        <div><label for="title">Название</label><input type="text" id="title"></div>
+        <div><label for="author">Автор</label><input type="text" id="author"></div>
+        <div><label for="year">Год издания</label><input type="number" min="1800" max="2024" id="year"></div>
+        <div><label for="genre">Жанр</label><input type="text" id="genre"></div>
+        <div><label for="status">Статус</label><input type="text" id="status"></div>
+    <button>Сохранить</button>
+    </form>
+</section>
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Александр</first-name>
+    <last-name>Солженицын</last-name>
+    <middle-name>И</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>Ответ поздравителям</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-11">2013-06-11</date>
+   <id>Tue Jun 11 16:29:37 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Солженицын Александр И</p>
+<p>Ответ поздравителям</p></title> 
+<section>
+<p>Александр Солженицын </p>
+<p>ОТВЕТ ПОЗДРАВИТЕЛЯМ </p>
+<p>В редакцию "Литературной газеты" </p>
+<p>Копия: "Новый мир" </p>
+<p>Рязань, 12 декабря 1968 </p>
+<p>Я знаю, что ваша газета не напечатает единой моей строки, не придав ей исказительного или порочного смысла. Но у меня нет другого выхода ответить моим многочисленным поздравителям иначе как посредством вас: </p>
+<p>Читателей и писателей, приславших поздравления и пожелания к моему 50-летию, я с волнением благодарю. Я обещаю им никогда не изменить истине. Моя единственная мечта - оказаться достойным надежд читающей России. </p>
+<p>А. Солженицын </p>
+<p>Ответ поздравителям (12 декабря 1968). - Ответ на поздравления, присланные к 50-летию автора в Рязань открыто, почтой и телеграфом. Не был опубликован ни "Литературной газетой", ни "Новым Миром". Ходил в самиздате. Из первых публикаций на Западе: по-русски - "Новый журнал", 1970, № 98; по-английски - в сборнике: Solzhenitsyn: A Documentary Record/Labedz. New York: Harper &amp; Row, 1971. </p>
+</section>
+</body>
+</FictionBook>

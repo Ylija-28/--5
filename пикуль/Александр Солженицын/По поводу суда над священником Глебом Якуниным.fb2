@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Александр</first-name>
+    <last-name>Солженицын</last-name>
+    <middle-name>И</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>По поводу суда над священником Глебом Якуниным</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-11">2013-06-11</date>
+   <id>Tue Jun 11 17:49:12 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Солженицын Александр И</p>
+<p>По поводу суда над священником Глебом Якуниным</p></title> 
+<section>
+<p>Александр СОЛЖЕНИЦЫН </p>
+<p>ПО ПОВОДУ СУДА НАД СВЯЩЕННИКОМ ГЛЕБОМ ЯКУНИНЫМ </p>
+<p>25 августа 1980 </p>
+<p>Бесстыдное советское правительство ещё раз вынуждено приоткрыть миру, как оно боится веры в Бога и глумится над правами верующих: расправляются с комитетом защиты верующих всех религий в СССР - с отцом Глебом Якуниным и его сподвижниками Львом Регельсоном и Виктором Капитанчуком. Христиане нашей страны чтут их мужественный и мученический подвиг. </p>
+<p>По поводу суда над священником Глебом Якуниным (25 августа 1980). Распространено телеграфными агентствами. Русский текст - "Новое русское слово", 27.8.1980; "Русская мысль", 4.9.1980. </p>
+</section>
+</body>
+</FictionBook>

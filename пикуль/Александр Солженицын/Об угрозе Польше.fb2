@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Александр</first-name>
+    <last-name>Солженицын</last-name>
+    <middle-name>И</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>Об угрозе Польше</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-11">2013-06-11</date>
+   <id>Tue Jun 11 17:49:11 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Солженицын Александр И</p>
+<p>Об угрозе Польше</p></title> 
+<section>
+<p>Александр СОЛЖЕНИЦЫН </p>
+<p>ОБ УГРОЗЕ ПОЛЬШЕ </p>
+<p>4 декабря 1980 </p>
+<p>Кровавые последователи Ленина продолжают ломиться за своей несбыточной мечтой покорить мир - не считая, сколько народов, чужих и своих, будет перемолото и опозорено в той мясорубке. </p>
+<p>В эти дни сердце подневольного русского народа - вместе с польским. </p>
+<p>Об угрозе Польше (4 декабря 1980). - Было передано телеграфным агентствам в дни, когда сгустились признаки подготовки советского вторжения в Польшу. Получило широкое распространение на европейских языках. По-русски - см., например, "Русскую мысль", 11.12.1980. </p>
+</section>
+</body>
+</FictionBook>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Александр</first-name>
+    <last-name>Солженицын</last-name>
+    <middle-name>И</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>Заявление о суде над Владимиром Осиповым</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-11">2013-06-11</date>
+   <id>Tue Jun 11 16:29:36 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Солженицын Александр И</p>
+<p>Заявление о суде над Владимиром Осиповым</p></title> 
+<section>
+<p>Александр Солженицын </p>
+<p>ЗАЯВЛЕНИЕ О СУДЕ НАД ВЛАДИМИРОМ ОСИПОВЫМ </p>
+<p>25 сентября 1975 </p>
+<p>Владимир Осипов пытался строго легальными средствами бороться только за сохранение русской культуры. Он ни разу - ни прямо, ни косвенно - не выступил против советского режима. Тем не менее его судят. Все могут видеть: и как ненавидит советский режим традиции собственного народа, и чего стоят его заявления о разрядке. </p>
+<p>На Западе до сегодняшнего дня безграмотно и беспечно взаимозаменяют слова "советский" и "русский". На самом деле эти слова прямо противоположны по смыслу. </p>
+<p>Заявление о суде над Владимиром Осиповым (25 сентября 1975). Написано при получении известия о суде, до вынесения приговора. Передано телеграфным агентствам. По-русски впервые напечатано в "Вестнике РХД", 1975, № 116. </p>
+</section>
+</body>
+</FictionBook>

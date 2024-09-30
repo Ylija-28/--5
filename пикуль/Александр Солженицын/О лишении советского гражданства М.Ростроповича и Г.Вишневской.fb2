@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Александр</first-name>
+    <last-name>Солженицын</last-name>
+    <middle-name>И</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>О лишении советского гражданства М Ростроповича и Г Вишневской</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-11">2013-06-11</date>
+   <id>Tue Jun 11 17:49:11 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Солженицын Александр И</p>
+<p>О лишении советского гражданства М Ростроповича и Г Вишневской</p></title> 
+<section>
+<p>Александр СОЛЖЕНИЦЫН </p>
+<p>О ЛИШЕНИИ СОВЕТСКОГО ГРАЖДАНСТВА М. РОСТРОПОВИЧА И Г. ВИШНЕВСКОЙ </p>
+<p>17 марта 1978 </p>
+<p>Как русский писатель заявляю ответственно, что коммунистическая власть своей историей сама не имеет на нашу родину того права, которого бесстыдно лишает других - вот, сейчас, великих артистов Мстислава Ростроповича и Галину Вишневскую. </p>
+<p>О лишении советского гражданства М. Ростроповича и Г. Вишневской (17 марта 1978). - Передано агентствам по телефону из Вермонта. Оглашено на пресс-конференции Ростроповича и Вишневской в Париже. По-русски печаталось в эмигрантской прессе, см., например, "Русскую мысль", 23.3.1978. </p>
+</section>
+</body>
+</FictionBook>
